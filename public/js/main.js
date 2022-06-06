@@ -63,5 +63,3 @@ const connectSecWithNavLink = () => {
     }
   });
 };
-
-// Made for Web Server Programming class
